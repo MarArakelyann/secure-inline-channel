@@ -134,5 +134,13 @@ Verified results include:
 
 This project is an educational prototype demonstrating cryptographic communication and network packet observation. Its successful functional tests do not constitute a formal security audit or production-readiness assessment.
 
+## Screenshots
 
+### Successful Communication and Packet Capture
+
+![Communication and Packet Capture](screenshots/communication-and-packet-capture.png)
+
+### Receiver Authentication and Decryption
+
+![Receiver Authentication](screenshots/receiver-authentication.png)
 
